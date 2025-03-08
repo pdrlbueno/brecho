@@ -97,3 +97,10 @@ body{
 .linha{
     width: 400px;
 }
+.formulario{
+    background-color: gray;
+    height: 180px;
+    width: 200px;
+    border-radius: 5px;
+    text-align: center;
+}
